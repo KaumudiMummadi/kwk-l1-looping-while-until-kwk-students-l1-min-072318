@@ -5,7 +5,5 @@ def using_until
         time += 1 
   end
 end 
-
-
 using_until
 
